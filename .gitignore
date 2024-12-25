@@ -1,0 +1,75 @@
+# Visual Studio dosyaları
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.dll
+*.exe
+*.pdb
+
+# Build sonuçları
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+
+# NuGet paketleri
+packages/
+*.nupkg
+
+# SQLite veritabanı dosyaları
+*.db
+*.db-shm
+*.db-wal
+
+# Geçici dosyalar
+[Tt]emp/
+[Tt]mp/
+*.log
+*.bak
+
+# Setup ve kurulum dosyaları
+Setup/
+Setup*/
+*.msi
+*.exe
+*.zip
+*.rar
+*.7z
+*.msp
+*.msix
+*.msm
+*.mst
+
+# IDE dosyaları
+.idea/
+.vscode/
+*.sln.iml
+
+# Derleme çıktıları
+*.dll.config
+*.cache
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*_wpftmp.csproj
+*.log
+*.vspscc
+*.vssscc
+*.pidb
+*.svclog
+*.scc 
